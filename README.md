@@ -9,29 +9,8 @@ Create React App project for **Lab 2**, showcasing basic React concepts:
 
 ## Demo (Video)
 
-Add your demo video link here:
 
-- Video: **TODO** (paste a YouTube/Loom/Drive link)
 
-Optional (if you want to commit a local video file): add it under `demo/` and link it here (example: `./demo/demo.mp4`).
+https://github.com/user-attachments/assets/7dbd17e7-9595-489a-90f3-964197b58e6d
 
-## Run Locally
 
-```bash
-npm install
-npm start
-```
-
-Then open `http://localhost:3000`.
-
-## Useful Scripts
-
-```bash
-npm test
-npm run build
-```
-
-## Project Notes
-
-- `src/App.js` groups all exercises/components.
-- Built with React 18 + `react-scripts` (CRA).
